@@ -1,0 +1,21 @@
+27 th october,2022.
+the day of workshop of datasciece in python on CAS.
+anaconda...
+install the mark down extencionn---->the best extencion markdown all-->to make the code and running with it.(just like word)
+using the seaborn library we can use the following function to grep the data from the displayed data:
+head()
+tail()
+scatter(height,weight,)
+note: go to the website of the seaborn select the graph from the gallery and chose the graph.
+github coo pilot
+git hub student pack and github developer pack also
+
+
+
+
+rivision control system
+version control
+git hub campus expret...
+git hub campus embaditor
+
+
