@@ -34,4 +34,10 @@ f1 score:
 accuracy score:
 recall score:
 precise score:
+python learning platforms...
+1.python for data science.                          https://jakevdp.github.io/PythonDataScienceHandbook/
+2.Machine Learing with python github.
+3.pdf drive.
+
+surprise...
 
